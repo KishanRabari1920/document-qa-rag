@@ -1,0 +1,10 @@
+# Environment
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Data / large files
+data/*
+!data/.gitkeep
